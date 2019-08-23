@@ -1,0 +1,83 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+CodeforcesRound#544_Div3/MiddleOfTheContest
+CodeforcesRound#540/PalindromMatrix
+CodeforcesRound#540/WaterBuying
+CodeforcesHello2019/a.out
+CodechefMarchLongChallenge2019/ChefAndNumberGame
+CodechefMarchLongChallenge2019/CHDIGER
+CodeforcesRound#581_Div2/a
+CodeforcesRound#581_Div2/b
+CodeforcesRound#578_Div2/a
+CodeforcesRound#578_Div2/b
+CodechefDecemberLunchTime2019/a.out
+CodeforcesEducationalRound#60/BestSubsegment
+CodechefJanuaryLongChallenge2019/a.out
+CodechefFebruaryLongChallenge2019/MAGICJAR
+CodechefFebruaryLongChallenge2019/ARTBALAN
+CodechefFebruaryLongChallenge2019/DEPCHEF
+CodechefFebruaryLongChallenge2019/ChefAndSecretIngredients
+CodechefFebruaryLongChallenge2019/a.out
+CodechefFebruaryLongChallenge2019/AppyAndContest
+HackerrankMSc-Week1/WhiteLotusAndCaterpillar
+CodeforcesRound#579_Div3/a
+CodeforcesRound#579_Div3/c
+CodeforcesRound#579_Div3/b
+CodeforcesRound#563_Div2/A
+CodeforcesRound#563_Div2/B
+CodeforcesRound#539/SashaAndABitOfRelax_SOL
+CodeforcesRound#539/SashaAndABitOfRelax
+CodeforcesRound#539/SashaAndHisTrip
+CodeforcesRound#539/SashaAndMagneticMachines
+CodeforcesRound#580_Div2/a
+CodeforcesRound#580_Div2/b
+CodeforcesRound#531/a.out
+GoogleKickstart_2019/Round-D/xorwhat
+CodeforcesRound#529/PowersOfTwo_SOL
+CodeforcesRound#529/a.out
+CodeforcesRound#529/PowersOfTwo
+CodeforcesEducationalRound#71/a
+CodeforcesEducationalRound#71/c
+CodeforcesEducationalRound#71/b
+CodeforcesRound#570_Div3/A
+CodeforcesRound#570_Div3/C
+CodeforcesRound#570_Div3/D
+CodeforcesRound#570_Div3/B
+CodechefJulyLongChallenge2019/chef-and-mean
+CodeforcesRound#551_Div2/A
+CodechefJulyLunchTime2019/easy_math
+CodechefJanuaryLunchtime2019/Rooks
+CodechefJanuaryLunchtime2019/a.out
+CodechefJanuaryLunchtime2019/Distances
+CodechefJuneLunchTime2019/ping-paja-pong
+CodechefJuneLunchTime2019/magda-and-silly-pairs
+CodeforcesRound#532/a.out
+HackerrankMSc-Week4/a.out
+HackerrankMSc-Week4/DynamicArray
+HackerrankMSc-Week3/a.out

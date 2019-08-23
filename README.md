@@ -1,1 +1,1 @@
-# contest-archives
+# Contest Archives
